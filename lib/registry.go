@@ -1,4 +1,4 @@
-package registrylib
+package lib
 
 import (
 	"bufio"
